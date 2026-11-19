@@ -204,3 +204,25 @@ open the single html file.
 * **Commitments before next Day 2:**
     - Now with the deadline creeping up we must finish up this program **before Sunday.** The Front-end still has to connect with the API, and it has to be able to do all CRUD actions with the recipes.
     - There will also need to be some sort of third page added, since we *do* have three, though at the moment one of them is a copy of the other one, which means that they need to be adjusted to be different enough.
+
+
+## 2026-11-19: Day 2 Workshop:
+* **Present:** Vanshika, Emma
+
+* **Scribe:** Emma
+
+* **Standup**
+  - *Vanshika:* Understanding inherited project.
+  - *Emma:* Understanding inherited project.
+
+* **Plan**
+  - *Goals for today:*
+    - (1) Understand how the code works and what needs to be fixed/changed/added for the next milestone.
+* **Build**
+  - *Shipped:* Goal 1.
+
+* **Review**
+  - *Clean-clone check:* Server works.
+
+* **Handoff package:**
+  - *Commitments before next Day 2:* Before the next Day 2 session, we will get ready to work on Milestone 3.
